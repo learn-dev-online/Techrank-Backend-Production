@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_content_topics",
+  "info": {
+    "displayName": "Topics",
+    "icon": "book"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Link": {
+      "type": "string"
+    }
+  }
+}
